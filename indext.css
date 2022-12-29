@@ -151,12 +151,12 @@ body{
 
 .robot svg {
     position: absolute;
-    top: -150%;
+    top: -260%;
     left: 50%;
     display: block;
     margin: 0 auto;
     margin-left: -300px;
-    transform: scale(0.5) translate(0, -100%);
+    transform: scale(0.3) translate(0, -100%);
     transform-origin: center;
     height: 800px;
     width: 600px;
@@ -290,7 +290,7 @@ body{
   
           #eyes ellipse{
           transform-origin:center center; 
-          animation:eyes_blink 3s ease-out 0s infinite alternate}
+          animation:eyes_blink 1.5s ease-out 0s infinite alternate}
   
           #hover ellipse{
           transform-origin:center center; 
