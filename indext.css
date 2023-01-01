@@ -290,7 +290,7 @@ body{
   
           #eyes ellipse{
           transform-origin:center center; 
-          animation:eyes_blink 1.5s ease-out 0s infinite alternate}
+          animation:eyes_blink 1.5ñs ease-out 0s infinite alternate}
   
           #hover ellipse{
           transform-origin:center center; 
